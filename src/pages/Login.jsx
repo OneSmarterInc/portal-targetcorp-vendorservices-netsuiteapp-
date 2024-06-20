@@ -15,7 +15,7 @@ const LoginPage = () => {
     if (username === 'tsiegmund@harvestsports.com' && password === 'RobinOrange1205#') {
       setIsLoggedIn(true);
       setErrorMessage('');
-      navigate('/home');
+      navigate('/Dashboard');
     } else {
       setErrorMessage('Invalid username or password');
     }

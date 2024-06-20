@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Navbar from './Navbar';
 import Footer from './Footer';
 import Modal from 'react-modal';
+import { Button, Input, Textarea } from '@chakra-ui/react';
 
 Modal.setAppElement('#root');
 
@@ -33,7 +34,7 @@ const OpenCases = () => {
   return (
     <>
       <Navbar />
-      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '20px 0', borderBottom: '1px solid #ccc', margin: "20px" }}>
+      <div style={{ height:'70vh', display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '20px 0', borderBottom: '1px solid #ccc', margin: "20px" }}>
         <div style={{ fontSize: '18px' }}>
           Total Cases: {issues.length}
         </div>
@@ -64,17 +65,17 @@ const OpenCases = () => {
           <div>
             <label>
               Title:
-              <input type="text" name="title" value={formData.title} onChange={handleChange} required />
+              <Input type="text" name="title" value={formData.title} onChange={handleChange} required />
             </label>
           </div>
           <div>
             <label>
               Description:
-              <textarea name="description" value={formData.description} onChange={handleChange} required />
+              <Textarea name="description" value={formData.description} onChange={handleChange} required />
             </label>
           </div>
-          <button type="submit">Submit</button>
-          <button type="button" onClick={closeModal}>Cancel</button>
+          <Button type="submit" m={5} bg={'green'} color={'white'}>Submit</Button>
+          <Button type="button" onClick={closeModal}  m={5} bg={'red'} color={'white'}>Cancel</Button>
         </form>
       </Modal>
       <div style={{ margin: '20px' }}>
