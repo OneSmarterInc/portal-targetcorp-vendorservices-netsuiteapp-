@@ -34,7 +34,7 @@ const OpenCases = () => {
   return (
     <>
       <Navbar />
-      <div style={{ height:'70vh', display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '20px 0', borderBottom: '1px solid #ccc', margin: "20px" }}>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '20px 0', borderBottom: '1px solid #ccc', margin: "20px" }}>
         <div style={{ fontSize: '18px' }}>
           Total Cases: {issues.length}
         </div>
@@ -97,6 +97,7 @@ const OpenCases = () => {
           </tbody>
         </table>
       </div>
+      <div  style={{height:"40vh"}}></div>
       <Footer />
     </>
   );
