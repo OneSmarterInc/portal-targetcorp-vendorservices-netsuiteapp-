@@ -1,0 +1,33 @@
+.standards-container {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+  }
+  
+  .standards-container h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .standards-container p {
+    margin-bottom: 10px;
+  }
+  
+  .standards-container ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .standards-container li {
+    margin-bottom: 5px;
+  }
+  
+  .standards-container a {
+    color: #0073e6;
+    text-decoration: none;
+  }
+  
+  .standards-container a:hover {
+    text-decoration: underline;
+  }
+  

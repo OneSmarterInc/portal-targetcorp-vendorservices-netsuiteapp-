@@ -10,7 +10,10 @@ import Plan from './pages/Plan'
 import Sustainability from './pages/Sustainability'
 import News from './pages/News'
 import Dashboard from './pages/Dashboard'
-
+import Service from './pages/Services'
+import SearchBar from './pages/Help'
+import Reports from './components/Reports'
+import OpenCases from './components/Cases'
 
 function App() {
 
@@ -21,10 +24,13 @@ function App() {
       <Route path="/home" element={<Homepage />} />
       <Route path="/Dashboard" element={<Dashboard />} />
       <Route path="/Orders" element={<Order />} />
-      <Route path="/remittances" element={<Payments />} />
-      <Route path="/sustainability" element={<Sustainability />} />
-      <Route path="/news" element={<News />} />
+      <Route path="/Payouts & Account" element={<Payments />} />
+      <Route path="/Services" element={<Service />} />
+      <Route path="/Items" element={<Inventory />} />
       <Route path="/planing" element={<Plan />} />
+      <Route path="/Help Center" element={<SearchBar />} />
+      <Route path="/Reports" element={<Reports />} />
+      <Route path="/Open Cases" element={<OpenCases />} />
     </Routes>
     <></>
 

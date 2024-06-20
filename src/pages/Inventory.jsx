@@ -11,28 +11,24 @@ const Inventory = () => {
   const columns = useMemo(
     () => [
       {
+        Header: 'PARTNER SKU',
+        accessor: 'PARTNER SKU',
+      },
+      {
+        Header: 'TITLE',
+        accessor: 'TITLE',
+      },
+      {
         Header: 'UPC',
         accessor: 'UPC',
       },
       {
-        Header: 'Description',
-        accessor: 'Description',
+        Header: 'ITEM TYPE',
+        accessor: 'ITEM TYPE',
       },
       {
-        Header: 'MPN #',
-        accessor: 'MPN #',
-      },
-      {
-        Header: 'Vendor #',
-        accessor: 'Vendor #',
-      },
-      {
-        Header: 'Category',
-        accessor: 'Category',
-      },
-      {
-        Header: 'MSRP',
-        accessor: 'MSRP',
+        Header: 'STATUS',
+        accessor: 'STATUS',
       },
     ],
     []
@@ -54,11 +50,11 @@ const Inventory = () => {
     <>
       <Navbar />
       <Box p="10px">
-        <Heading mb="20px">Inventory</Heading>
+        <Heading mb="15px">Items </Heading>
         <Input
           value={globalFilter || ''}
           onChange={(e) => setGlobalFilter(e.target.value)}
-          placeholder="Search Inventory..."
+          placeholder="Search Items..."
           mb="20px"
         />
         <Table {...getTableProps()} variant="striped" colorScheme="">

@@ -11,34 +11,34 @@ const Payments = () => {
   const columns = useMemo(
     () => [
       {
-        Header: 'PAYMENT DATE',
-        accessor: 'PAYMENT DATE',
+        Header: 'Payout ID',
+        accessor: 'Payout ID',
       },
       {
-        Header: 'INVOICE NUMBER',
-        accessor: 'INVOICE NUMBER',
+        Header: 'Our PO#',
+        accessor: 'Our PO#',
       },
       {
-        Header: 'INVOICE AMOUNT',
-        accessor: 'INVOICE AMOUNT',
+        Header: 'Customer Invoice #',
+        accessor: 'Customer Invoice #',
       },
       {
-        Header: 'DISCOUNTS',
-        accessor: 'DISCOUNTS',
+        Header: 'Amount',
+        accessor: 'Amount',
       },
       ,
       {
-        Header: 'PAID AMOUNT',
-        accessor: 'PAID AMOUNT',
+        Header: 'Currency',
+        accessor: 'Currency',
       },
       
       {
-        Header: 'CURRENCY',
-        accessor: 'CURRENCY',
+        Header: 'Date',
+        accessor: 'Date',
       },
       {
-        Header: 'PAYMENT TYPE',
-        accessor: 'PAYMENT TYPE',
+        Header: 'Destination',
+        accessor: 'Destination',
       },
     ],
       
@@ -61,11 +61,11 @@ const Payments = () => {
     <>
       <Navbar />
       <Box p="10px">
-        <Heading mb="20px">Remittance</Heading>
+        <Heading mb="20px">Payouts</Heading>
         <Input
           value={globalFilter || ''}
           onChange={(e) => setGlobalFilter(e.target.value)}
-          placeholder="Search Inventory..."
+          placeholder="Search Payouts..."
           mb="20px"
         />
         <Table {...getTableProps()} variant="striped" colorScheme="">
