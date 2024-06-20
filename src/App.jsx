@@ -14,6 +14,7 @@ import Service from './pages/Services'
 import SearchBar from './pages/Help'
 import Reports from './components/Reports'
 import OpenCases from './components/Cases'
+import PrivateRoute from './components/PrivateRoute'
 
 function App() {
 
@@ -21,16 +22,16 @@ function App() {
     <>
     <Routes>
       <Route path="/" element={<LoginPage />} />
-      <Route path="/home" element={<Homepage />} />
-      <Route path="/Dashboard" element={<Dashboard />} />
-      <Route path="/Orders" element={<Order />} />
-      <Route path="/Payouts & Account" element={<Payments />} />
-      <Route path="/Services" element={<Service />} />
-      <Route path="/Items" element={<Inventory />} />
-      <Route path="/planing" element={<Plan />} />
-      <Route path="/Help Center" element={<SearchBar />} />
-      <Route path="/Reports" element={<Reports />} />
-      <Route path="/Open Cases" element={<OpenCases />} />
+      <Route path="/home" element={<PrivateRoute><Homepage /></PrivateRoute>} />
+      <Route path="/Dashboard" element={<PrivateRoute><Dashboard /></PrivateRoute>} />
+      <Route path="/Orders" element={<PrivateRoute><Order /></PrivateRoute>} />
+      <Route path="/Payouts & Account" element={<PrivateRoute><Payments /></PrivateRoute>} />
+      <Route path="/Services" element={<PrivateRoute><Service /></PrivateRoute>} />
+      <Route path="/Items" element={<PrivateRoute><Inventory /></PrivateRoute>} />
+      <Route path="/planing" element={<PrivateRoute><Plan /></PrivateRoute>} />
+      <Route path="/Help Center" element={<PrivateRoute><SearchBar /></PrivateRoute>} />
+      <Route path="/Reports" element={<PrivateRoute><Reports /></PrivateRoute>} />
+      <Route path="/Open Cases" element={<PrivateRoute><OpenCases /></PrivateRoute>} />
     </Routes>
     <></>
 

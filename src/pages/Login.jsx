@@ -2,6 +2,8 @@ import { Text } from '@chakra-ui/react';
 import React, { useState } from 'react';
 import logo from '../assets/log.png';
 import { useNavigate } from 'react-router-dom';
+import Cookies from "js-cookie";
+
 
 const LoginPage = () => {
   const [username, setUsername] = useState('');
@@ -10,11 +12,14 @@ const LoginPage = () => {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const navigate = useNavigate();
 
+
+
   const handleLogin = (event) => {
     event.preventDefault();
     if (username === 'tsiegmund@harvestsports.com' && password === 'RobinOrange1205#') {
       setIsLoggedIn(true);
       setErrorMessage('');
+      Cookies.set("targetToken", "shdgs67888sdhhsd", { expires: 7 });
       navigate('/Dashboard');
     } else {
       setErrorMessage('Invalid username or password');
