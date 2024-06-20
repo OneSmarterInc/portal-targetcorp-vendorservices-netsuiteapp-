@@ -1,0 +1,650 @@
+[
+    {
+        "Order ID": "910941AF238",
+        "Date": "06/18/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$474,501.76"
+    },
+    {
+        "Order ID": "910941AF230",
+        "Date": "06/17/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$671,293.88"
+    },
+    {
+        "Order ID": "910941AF223",
+        "Date": "06/11/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$841,890.58"
+    },
+    {
+        "Order ID": "910941AF216",
+        "Date": "06/10/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$587,975.74"
+    },
+    {
+        "Order ID": "910941AF208",
+        "Date": "06/06/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$763,759.26"
+    },
+    {
+        "Order ID": "910941AF199",
+        "Date": "06/04/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$731,339.28"
+    },
+    {
+        "Order ID": "910941AF192",
+        "Date": "06/03/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$628,538.78"
+    },
+    {
+        "Order ID": "910941AF185",
+        "Date": "05/28/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$854,833.66"
+    },
+    {
+        "Order ID": "910941AF173",
+        "Date": "05/23/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$911,498.72"
+    },
+    {
+        "Order ID": "910941AF164",
+        "Date": "05/22/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$786,501.48"
+    },
+    {
+        "Order ID": "910941AF155",
+        "Date": "05/20/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$917,475.64"
+    },
+    {
+        "Order ID": "910941AF145",
+        "Date": "05/14/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$595,504.16"
+    },
+    {
+        "Order ID": "910941AF134",
+        "Date": "05/13/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$893,921.96"
+    },
+    {
+        "Order ID": "910941AF121",
+        "Date": "05/09/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$883,023.64"
+    },
+    {
+        "Order ID": "910941AF112",
+        "Date": "05/06/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$822,334.24"
+    },
+    {
+        "Order ID": "910941AF106",
+        "Date": "05/01/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$695,810.42"
+    },
+    {
+        "Order ID": "910941AF097",
+        "Date": "04/29/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$776,250.62"
+    },
+    {
+        "Order ID": "910941AF083",
+        "Date": "04/24/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$880,930.02"
+    },
+    {
+        "Order ID": "910941AF071",
+        "Date": "04/19/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$780,887.56"
+    },
+    {
+        "Order ID": "910941AF059",
+        "Date": "04/17/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$908,172.34"
+    },
+    {
+        "Order ID": "910941AF050",
+        "Date": "04/12/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$977,443.84"
+    },
+    {
+        "Order ID": "910941AF042",
+        "Date": "04/09/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$848,027.98"
+    },
+    {
+        "Order ID": "910941AF031",
+        "Date": "04/05/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$851,983.86"
+    },
+    {
+        "Order ID": "910941AF019",
+        "Date": "04/01/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$993,123.86"
+    },
+    {
+        "Order ID": "910941AF008",
+        "Date": "03/29/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$781,265.42"
+    },
+    {
+        "Order ID": "910941AE999",
+        "Date": "03/22/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$728,596.32"
+    },
+    {
+        "Order ID": "910941AE992",
+        "Date": "03/18/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$936,005.64"
+    },
+    {
+        "Order ID": "910941AE981",
+        "Date": "03/14/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Open",
+        "Total": "$934,073.02"
+    },
+    {
+        "Order ID": "910941AE972",
+        "Date": "03/11/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$923,135.62"
+    },
+    {
+        "Order ID": "910941AE959",
+        "Date": "03/06/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$853,173.30"
+    },
+    {
+        "Order ID": "910941AE947",
+        "Date": "03/04/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$897,743.68"
+    },
+    {
+        "Order ID": "910941AE939",
+        "Date": "02/26/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$840,833.29"
+    },
+    {
+        "Order ID": "910941AE930",
+        "Date": "02/19/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$773,441.88"
+    },
+    {
+        "Order ID": "910941AE924",
+        "Date": "02/15/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$930,702.38"
+    },
+    {
+        "Order ID": "910941AE915",
+        "Date": "02/12/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$962,911.24"
+    },
+    {
+        "Order ID": "910941AE899",
+        "Date": "02/09/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$874,114.36"
+    },
+    {
+        "Order ID": "910941AE892",
+        "Date": "02/07/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$912,893.06"
+    },
+    {
+        "Order ID": "910941AE881",
+        "Date": "01/31/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$885,933.36"
+    },
+    {
+        "Order ID": "910941AE873",
+        "Date": "01/29/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$947,271.02"
+    },
+    {
+        "Order ID": "910941AE865",
+        "Date": "01/23/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$765,634.72"
+    },
+    {
+        "Order ID": "910941AE851",
+        "Date": "01/19/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$753,994.64"
+    },
+    {
+        "Order ID": "910941AE840",
+        "Date": "01/16/2024",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$929,752.08"
+    },
+    {
+        "Order ID": "910941AE831",
+        "Date": "01/11/2024",
+        "Window": "7 days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$925,880.84"
+    },
+    {
+        "Order ID": "910941AE819",
+        "Date": "01/08/2024",
+        "Window": "7 days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$895,996.26"
+    },
+    {
+        "Order ID": "910941AE807",
+        "Date": "01/05/2024",
+        "Window": "7 days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$953,080.92"
+    },
+    {
+        "Order ID": "910941AE795",
+        "Date": "01/03/2024",
+        "Window": "7 days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$955,745.88"
+    },
+    {
+        "Order ID": "910941AE784",
+        "Date": "12/29/2023",
+        "Window": "7 days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$883,055.44"
+    },
+    {
+        "Order ID": "910941AE777",
+        "Date": "12/28/2023",
+        "Window": "7 days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$894,707.96"
+    },
+    {
+        "Order ID": "910941AE770",
+        "Date": "12/22/2023",
+        "Window": "7 days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$919,275.28"
+    },
+    {
+        "Order ID": "910941AE761",
+        "Date": "12/19/2023",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$918,989.72"
+    },
+    {
+        "Order ID": "910941AE754",
+        "Date": "12/12/2023",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$869,611.68"
+    },
+    {
+        "Order ID": "910941AE747",
+        "Date": "12/08/2023",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$801,557.76"
+    },
+    {
+        "Order ID": "910941AE742",
+        "Date": "12/01/2023",
+        "Window": "2 days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$770,444.42"
+    },
+    {
+        "Order ID": "910941AE733",
+        "Date": "11/29/2023",
+        "Window": "2 days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$911,594.46"
+    },
+    {
+        "Order ID": "910941AE721",
+        "Date": "11/24/2023",
+        "Window": "2 days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$892,476.38"
+    },
+    {
+        "Order ID": "910941AE712",
+        "Date": "11/22/2023",
+        "Window": "2 days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$845,370.92"
+    },
+    {
+        "Order ID": "910941AE707",
+        "Date": "11/15/2023",
+        "Window": "2 days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$840,782.62"
+    },
+    {
+        "Order ID": "910941AE699",
+        "Date": "11/13/2023",
+        "Window": "2 days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$881,517.64"
+    },
+    {
+        "Order ID": "910941AE699",
+        "Date": "11/09/2023",
+        "Window": "2 days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$946,359.52"
+    },
+    {
+        "Order ID": "910941AE681",
+        "Date": "11/07/2023",
+        "Window": "2 days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$905,542.22"
+    },
+    {
+        "Order ID": "910941AE674",
+        "Date": "10/31/2023",
+        "Window": "2 days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$886,913.84"
+    },
+    {
+        "Order ID": "910941AE668",
+        "Date": "10/30/2023",
+        "Window": "2 days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$895,051.64"
+    },
+    {
+        "Order ID": "910941AE660",
+        "Date": "10/27/2023",
+        "Window": "2 days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$900,306.16"
+    },
+    {
+        "Order ID": "910941AE653",
+        "Date": "10/26/2023",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$800,431.54"
+    },
+    {
+        "Order ID": "910941AE653",
+        "Date": "10/18/2023",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$898,695.72"
+    },
+    {
+        "Order ID": "910941AE642",
+        "Date": "10/12/2023",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$785,198.74"
+    },
+    {
+        "Order ID": "910941AE628",
+        "Date": "09/28/2023",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$801,133.28"
+    },
+    {
+        "Order ID": "910941AE617",
+        "Date": "09/06/2023",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$816,510.22"
+    },
+    {
+        "Order ID": "910941AE606",
+        "Date": "08/31/2023",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$951,577.92"
+    },
+    {
+        "Order ID": "910941AE597",
+        "Date": "08/30/2023",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$941,318.84"
+    },
+    {
+        "Order ID": "910941AE590",
+        "Date": "08/29/2023",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$889,171.56"
+    },
+    {
+        "Order ID": "910941AE577",
+        "Date": "08/23/2023",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$684,941.32"
+    },
+    {
+        "Order ID": "910941AE556",
+        "Date": "08/15/2023",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$896,221.25"
+    },
+    {
+        "Order ID": "910941AE545",
+        "Date": "08/10/2023",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$799,534.08"
+    },
+    {
+        "Order ID": "910941AE531",
+        "Date": "07/31/2023",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$892,757.12"
+    },
+    {
+        "Order ID": "910941AE526",
+        "Date": "07/27/2023",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$899,178.25"
+    },
+    {
+        "Order ID": "910941AE515",
+        "Date": "07/21/2023",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$879,706.84"
+    },
+    {
+        "Order ID": "910941AE517",
+        "Date": "07/19/2023",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$903,167.56"
+    },
+    {
+        "Order ID": "910941AE506",
+        "Date": "07/06/2023",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$895,612.04"
+    },
+    {
+        "Order ID": "910941AE495",
+        "Date": "06/29/2023",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$794,722.44"
+    },
+    {
+        "Order ID": "910941AE482",
+        "Date": "06/23/2023",
+        "Window": "3 Days",
+        "Freight": "TGT",
+        "Status": "Closed",
+        "Total": "$828,022.34"
+    }
+]
