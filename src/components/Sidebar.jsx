@@ -101,10 +101,10 @@ const Sidebar = () => {
                     px={4}
                     py={2}
                     _hover={{ bg: '#B31C1C' }}
-                    onClick={() => navigate('/Open Cases')}
+                    onClick={() => navigate('/Help Center')}
                   >
-                    <PiSuitcaseSimpleDuotone size={30} style={{ marginRight: '10px' }} />
-                    Open Cases
+                    <IoMdHelpCircleOutline size={30} style={{ marginRight: '10px' }} />
+                    Help Center
                   </Button>
                   <Button
                     color={'white'}
@@ -114,10 +114,10 @@ const Sidebar = () => {
                     px={4}
                     py={2}
                     _hover={{ bg: '#B31C1C' }}
-                    onClick={() => navigate('/Help Center')}
+                    onClick={() => navigate('/Open Cases')}
                   >
-                    <IoMdHelpCircleOutline size={30} style={{ marginRight: '10px' }} />
-                    Help Center
+                    <PiSuitcaseSimpleDuotone size={30} style={{ marginRight: '10px' }} />
+                    Open Cases
                   </Button>
                 </Box>
               </Collapse>
