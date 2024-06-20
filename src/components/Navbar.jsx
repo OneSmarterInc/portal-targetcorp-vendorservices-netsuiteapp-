@@ -41,7 +41,9 @@ const Navbar = () => {
                     <Button variant="link" colorScheme="white" title="tsiegmund@harvestsports.com" onClick={() => { alert('tsiegmund@harvestsports.com') }}>
                         <MdPerson size={30} style={{ marginRight: '10px' }} /> PROFILE
                     </Button>
-                    <Button variant="link" colorScheme="white" onClick={() => { navigate('/') }}>
+                    <Button variant="link" colorScheme="white" onClick={() => {
+                        Cookies.remove("targettoken");
+                        navigate('/') }}>
                         <MdLogout size={30} style={{ marginRight: '10px' }} />
                     </Button>
                 </HStack>
