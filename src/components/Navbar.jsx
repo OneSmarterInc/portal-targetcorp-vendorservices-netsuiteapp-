@@ -5,6 +5,7 @@ import { useNavigate } from 'react-router-dom'; // Assuming you are using react-
 import { MdPerson, MdLogout } from 'react-icons/md';
 import { MdHelp } from 'react-icons/md';
 import { MdAdd } from 'react-icons/md';
+import Cookies from "js-cookie";
 
 
 import Sidebar from '../components/Sidebar';
@@ -42,7 +43,7 @@ const Navbar = () => {
                         <MdPerson size={30} style={{ marginRight: '10px' }} /> PROFILE
                     </Button>
                     <Button variant="link" colorScheme="white" onClick={() => {
-                        Cookies.remove("targettoken");
+                        Cookies.remove("targetToken");
                         navigate('/') }}>
                         <MdLogout size={30} style={{ marginRight: '10px' }} />
                     </Button>
